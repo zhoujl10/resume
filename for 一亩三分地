@@ -1,0 +1,37 @@
+
+HIGHLIGHTS 
+ Strong coder; quick learner; solid background in Software System, Applied Mathematics and Statistical Analysis
+
+SKILLS 
+ Proficient in C, C++ and SQL; familiar with Java, Linux Operating System
+ Hands skills with machine learning and data analysis using R and MATLAB
+ Project and code portfolio: https://github.com/caogl
+
+EDUCATION 
+University of Michigan, Ann Arbor, MI 07/2013-present
+ MFE, Information System concentration
+ Georgetown University, Washington, DC 09/2012-01/2013
+ Graduate study in Economics
+ Dalian University of Technology, Liaoning, China 09/2008-07/2012
+ BS, Applied Mathematics
+
+ EXPERIENCE 
+Database Management, University of Michigan 09/2013-10/2013
+  Designed a relational database for storing information about Facebook social media network
+  Created tables of database according to the ER diagrams designed; populated the database with real data
+  Written multiple efficient queries and embedded them into Java using JDBC
+
+Data Structure and Algorithm Analysis, University of Michigan 10/2013-11/2013
+ Improved equity trading in an electronic exchange marketing and optimized the execution time of the program by utilizing various core data structures, i.e. heaps, hash tables and balanced binary search trees
+
+Machine Learning, University of Michigan 11/2013-12/2013
+ Detected handwritten digits using robust K-means algorithm using Kernel K-means and Inverse Weighed K-Means method; implemented the Trimmed
+ K-means method under the Lasso and Ridge constraint to handle noisy features and sparse data; obtained numeric solution using gradient descent with a shift in the constraint boundary
+
+Operating System, University of Michigan 01/2014-02/2014
+ Designed and implemented the thread library to manage the concurrent programs on uniprocessor and multiprocessor systems using Linux kernel commands and spinlocks
+ Tested and evaluated the designed thread library for multi-threaded programming on concurrent disk service scheduling
+
+Research Assistant, Georgetown University 12/2012-03/2013
+ Developed a method to fit the Conway-Maxwell-Skellam Regression; modeled the differences between two groups of counting data with a dispersion parameter using the vector-generalized linear regression method
+ Performed statistical inference, parameter and interval estimation; studied approximate expectation of information matrix using simulation; calculated the weight matrix in iteration procedure of the likelihood value computation;developed new member function in the R package VGAM
